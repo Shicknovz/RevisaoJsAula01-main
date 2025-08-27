@@ -71,3 +71,4 @@ function mostrarLinguagem() {
 }
 mostrarLinguagem();
 console.log("Fora da função, linguagemFunc é:", linguagemFunc);
+ 
